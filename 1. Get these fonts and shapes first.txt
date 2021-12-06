@@ -1,0 +1,32 @@
+FONTS
+---------
+
+Nexa Font Family: https://www.dafontfree.io/download/nexa-font/
+**(scroll down to the green download button)**
+
+ND Logos Font: https://www.dafont.com/nd-logos.font
+**(download button is on the right hand side under red strip)**
+
+Install fonts by:
+0. Unzip your downloaded file
+1. Right-click on the .OTF or .TTF files and click install
+2. You are good to go!
+---------
+
+
+SHAPES
+---------
+
+Ribbon Shapes: http://www.shapes4free.com/photoshop-custom-shapes/ribbons-photoshop-shapes/
+**(scroll down to the green download button)**
+
+Install shapes by:
+0. Unzip your downloaded file
+1. Open Photoshop
+2. Right-click on Shape Tool
+3. Select Custom Shape Tool
+4. Right-click in your template, a shape option box should pop up
+5. Click gear icon, then click 'Load Shapes'
+6. Locate your downloaded .CSH file from: http://www.shapes4free.com/photoshop-custom-shapes/ribbons-photoshop-shapes/
+7. You are good to go!
+---------
